@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6a88cda-6d0a-456e-b7bc-5372138b6f20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bookstore" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1UN3myYXIKS3gr16BKcwAxZ81T3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Bookstore\templates\search" />
+      <recent name="D:\Python\Bookstore\celery" />
+      <recent name="D:\Python\Bookstore" />
+      <recent name="D:\Python\Bookstore\bookstore" />
+      <recent name="D:\Python\Bookstore\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Bookstore\static\images" />
+      <recent name="C:\Users\13797\.virtualenvs\Bookstore-fRJQidKE\Lib\site-packages\haystack\backends" />
+      <recent name="D:\Python\Bookstore\static\css" />
+      <recent name="D:\Python\Bookstore\order" />
+      <recent name="D:\Python\Bookstore\templates\cart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.Bookstore">
+    <configuration name="Test: Bookstore.users" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Bookstore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="Bookstore.users" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: bookstore" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Bookstore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="bookstore" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="place" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8000/place/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Bookstore" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Bookstore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: bookstore" />
+        <item itemvalue="JavaScript Debug.place" />
+        <item itemvalue="Django tests.Test: Bookstore.users" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a88cda-6d0a-456e-b7bc-5372138b6f20" name="Default Changelist" comment="" />
+      <created>1575183390830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575183390830</updated>
+      <workItem from="1575183404441" duration="581000" />
+      <workItem from="1575765825981" duration="281000" />
+      <workItem from="1575766210105" duration="162000" />
+      <workItem from="1575766857352" duration="7413000" />
+      <workItem from="1575902096274" duration="34222000" />
+      <workItem from="1576042430566" duration="3350000" />
+      <workItem from="1576046593911" duration="29810000" />
+      <workItem from="1576205418559" duration="30139000" />
+      <workItem from="1576337944132" duration="34359000" />
+      <workItem from="1576471547109" duration="2533000" />
+      <workItem from="1576475189312" duration="1988000" />
+      <workItem from="1576477350701" duration="2270000" />
+      <workItem from="1576489257600" duration="36260000" />
+      <workItem from="1576643267059" duration="6594000" />
+      <workItem from="1576651723002" duration="916000" />
+      <workItem from="1576656556605" duration="45466000" />
+      <workItem from="1576910849259" duration="2339000" />
+      <workItem from="1576975503653" duration="7450000" />
+      <workItem from="1577496639264" duration="4531000" />
+      <workItem from="1577593978920" duration="112000" />
+      <workItem from="1590735346935" duration="2156000" />
+      <workItem from="1590738453453" duration="201000" />
+      <workItem from="1590841423568" duration="2684000" />
+      <workItem from="1590850827327" duration="666000" />
+      <workItem from="1597626234004" duration="25000" />
+      <workItem from="1597630023301" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575902154554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1575902154554" />
+    <state x="371" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576500649464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1576500649464" />
+    <state x="641" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576748700890">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="641" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576748700890" />
+    <state width="1119" height="455" key="DebuggerActiveHint" timestamp="1576755073187">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1119" height="455" key="DebuggerActiveHint/0.0.1280.720@0.0.1280.720" timestamp="1576755073187" />
+    <state x="224" y="115" key="EnvironmentVariablesDialog" timestamp="1576757164958">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="224" y="115" key="EnvironmentVariablesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576757164958" />
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1576985289587">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1576985289587" />
+    <state width="597" height="324" key="GridCell.Tab.0.bottom" timestamp="1576910714257">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1576910714257" />
+    <state width="597" height="324" key="GridCell.Tab.0.center" timestamp="1576910714257">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1576910714257" />
+    <state width="597" height="324" key="GridCell.Tab.0.left" timestamp="1576910714257">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1576910714257" />
+    <state width="597" height="324" key="GridCell.Tab.0.right" timestamp="1576910714257">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1576910714257" />
+    <state width="597" height="324" key="GridCell.Tab.1.bottom" timestamp="1576910714258">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1576910714258" />
+    <state width="597" height="324" key="GridCell.Tab.1.center" timestamp="1576910714258">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1576910714258" />
+    <state width="597" height="324" key="GridCell.Tab.1.left" timestamp="1576910714257">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1576910714257" />
+    <state width="597" height="324" key="GridCell.Tab.1.right" timestamp="1576910714258">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="597" height="324" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1576910714258" />
+    <state width="1237" height="219" key="GridCell.Tab.2.bottom" timestamp="1576588284731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.2.bottom/0.0.1280.720@0.0.1280.720" timestamp="1576588284731" />
+    <state width="1237" height="219" key="GridCell.Tab.2.center" timestamp="1576588284731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.2.center/0.0.1280.720@0.0.1280.720" timestamp="1576588284731" />
+    <state width="1237" height="219" key="GridCell.Tab.2.left" timestamp="1576588284731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.2.left/0.0.1280.720@0.0.1280.720" timestamp="1576588284731" />
+    <state width="1237" height="219" key="GridCell.Tab.2.right" timestamp="1576588284731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.2.right/0.0.1280.720@0.0.1280.720" timestamp="1576588284731" />
+    <state x="-9" y="0" width="996" height="707" key="SettingsEditor" timestamp="1576757202743">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-9" y="0" width="996" height="707" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1576757202743" />
+    <state width="647" height="367" key="XDebugger.FullValuePopup" timestamp="1576504187453">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="647" height="367" key="XDebugger.FullValuePopup/0.0.1280.720@0.0.1280.720" timestamp="1576504187453" />
+    <state x="195" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576651197134">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="195" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.720@0.0.1280.720" timestamp="1576651197134" />
+    <state x="0" y="0" width="638" height="720" key="find.popup" timestamp="1576765031098">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" width="638" height="720" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1576765031098" />
+    <state x="571" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1576758733874">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="571" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1576758733874" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/users/views.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/users/views.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cart/views.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cart/views.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/order/views.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/order/views.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/templates/order/place_order.html</url>
+          <line>41</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+        <breakpoint enabled="true" type="django-exception">
+          <properties exception="VariableDoesNotExist" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jinja2-exception">
+          <properties exception="TemplateError" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jupyter-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bookstore$Test__bookstore.coverage" NAME="Test: bookstore Coverage Results" MODIFIED="1576754996248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Bookstore$Test__Bookstore_users.coverage" NAME="Test: Bookstore.users Coverage Results" MODIFIED="1576500256978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
